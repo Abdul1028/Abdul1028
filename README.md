@@ -10,10 +10,10 @@
     <a href="https://github.com/Abdul1028” target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/sanskar-bhushankar-6b1a49244" target="_blank">
+    <a href="https://www.linkedin.com/in/abduldotexe/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://x.com/sanskar2804" target="_blank">
+    <a href="https://x.com/Abdulshk01" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
     <a href="">
