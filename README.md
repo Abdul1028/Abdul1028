@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/Abdul1028/Abdul1028/blob/output/ocean.gif)
+![snake gif](https://github.com/Abdul1028/Abdul1028/blob/output/github-snake.svg)
   
 </div>
 
