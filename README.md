@@ -4,7 +4,6 @@
 <p align="center">
   I'm a Cross Platform App Developer currently pursuing MCA at NMIMS and practicing  EXPO 
 </p>
-
 <div>
   <div align="center">
     <a href="https://leetcode.com/u/Abdul1028/” target="_blank">
