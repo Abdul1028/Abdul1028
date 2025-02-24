@@ -39,7 +39,7 @@
   <tr>
     <td>
       <a href="https://github.com/Abdul1028">
-        <img src="https://streak-stats.demolab.com?user=Abdul1028&theme=nord&hide_border=true">
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdul1028)](https://git.io/streak-stats)
       </a>
     </td>
     <td>
