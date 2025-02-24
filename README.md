@@ -38,9 +38,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Abdul1028&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abdul1028&theme=dark" alt="GitHub Streak" /></a>
     </td>
     <td>
       <a href="https://github.com/Abdul1028">
