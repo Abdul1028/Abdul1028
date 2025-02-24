@@ -38,9 +38,6 @@
   </tr>
   <tr>
     <td>
-         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abdul1028&theme=dark" alt="GitHub Streak" /></a>
-    </td>
-    <td>
       <a href="https://github.com/Abdul1028">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul1028&theme=nord_dark">
       </a>
