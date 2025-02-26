@@ -51,7 +51,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Abdul1028&show_icons=true&theme=radical&count_private=true&border_radius=10&card_width=500&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar-Bhushankar&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul1028&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
