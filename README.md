@@ -1,6 +1,5 @@
 <h1 align="center">Hiie 👋, I'm Abdul Shaikh</h1>
 <h3 align="center">From Mumbai, India</h3>
-
 <p align="center">
   I'm a Cross Platform App Developer currently pursuing MCA at NMIMS and practicing  EXPO 
 </p>
@@ -74,9 +73,3 @@
 ![snake gif](https://github.com/Abdul1028/Abdul1028/blob/output/github-snake-dark.svg)
   
 </div>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul1028/Abdul1028/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanskar-Bhushankar/Sanskar-Bhushankar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sanskar-Bhushankar/Sanskar-Bhushankar/output/github-snake.svg" /
-</picture> -->
