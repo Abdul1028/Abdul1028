@@ -31,11 +31,14 @@
   <tr>
     <td colspan="2">
       <a href="https://github.com/Abdul1028">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul1028&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul1028&bg_color=000000&color=34938d&line=df07d0&point=ffffff&area=true&hide_border=true">
       </a>
     </td>
   </tr>
 </table>
+
+
+
 
 <table style="width: 100%;">
   <tr>
