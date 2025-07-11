@@ -35,13 +35,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Abdul1028">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul1028&theme=nord_dark">
-      </a>
-    </td>
-  </tr>
 </table>
 
 <table style="width: 100%;">
