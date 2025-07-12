@@ -19,7 +19,6 @@
     </a>
   </div>
 </div>
-
 <table>
   <tr>
     <td colspan="2">
