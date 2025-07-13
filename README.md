@@ -61,6 +61,22 @@
     </tr> 
 </table>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://learn.microsoft.com/en-us/users/sanskarbhushankar-9470/" target="_blank">
+                    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge" width="70" height="70"/>
+      </a>
+      <p>
+          365 Days of Code <br/>Leetcode<br>
+          2024-11-17
+        <br/>
+        <br/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 | 💻 Tech Stack:    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
