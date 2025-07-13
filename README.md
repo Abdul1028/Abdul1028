@@ -3,6 +3,11 @@
 <p align="center">
   I'm a Cross Platform App Developer currently pursuing MCA at NMIMS and practicing  EXPO 
 </p>
+
+<p align="center">
+  <img src="https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/Abdul1028/recent-activity-badge.svg" alt="Activity Status" />
+</p>
+
 <div>
   <div align="center">
     <a href="https://leetcode.com/u/Abdul1028/” target="_blank">
