@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <img src = "https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/abdul1028/streak-card.svg" alt="streak component" />
+    <img src = "https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/abdul1028/streak-card.svg?v=1" alt="streak component" />
     </tr> 
 </table>
 
