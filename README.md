@@ -50,7 +50,11 @@
   </tr>
 </table>
 
-![GitHub Streak](https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/abdul1028/streak-card.svg)
+<table>
+  <tr>
+    <img src = "https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/abdul1028/streak-card.svg" alt="streak component" />
+  </tr>
+</table>
 
 
 
