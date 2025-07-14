@@ -41,9 +41,6 @@
   </tr>
 </table>
 
-
-
-
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center; padding: 10px;">
