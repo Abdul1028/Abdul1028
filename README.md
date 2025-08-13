@@ -24,33 +24,6 @@
     </a>
   </div>
 </div>
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/Abdul1028”>
-        <img width=100% src="https://github-profile-trophy.vercel.app/?username=Abdul1028&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/Abdul1028">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul1028&bg_color=000000&color=34938d&line=df07d0&point=ffffff&area=true&hide_border=true">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdul1028&show_icons=true&theme=radical&count_private=true&border_radius=10&card_width=500&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul1028&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
