@@ -4,6 +4,23 @@
   I'm a Cross Platform App Developer currently pursuing MCA at NMIMS and practicing  EXPO 
 </p>
 
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/Abdul1028”>
+        <img width=100% src="https://github-profile-trophy.vercel.app/?username=Abdul1028&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/Abdul1028">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul1028&bg_color=000000&color=34938d&line=df07d0&point=ffffff&area=true&hide_border=true">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/Abdul1028/recent-activity-badge.svg" alt="Activity Status" />
 </p>
