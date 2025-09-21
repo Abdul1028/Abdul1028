@@ -3,8 +3,6 @@
 <p align="center">
   I'm a Cross Platform App Developer currently pursuing MCA at NMIMS and practicing  EXPO 
 </p>
-
-
 <div align="center"  style="margin-bottom: 10px;" >
 <a align="center">
   <img src="https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/Abdul1028/recent-activity-badge.svg" alt="Activity Status" />
