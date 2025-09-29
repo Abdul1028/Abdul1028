@@ -12,7 +12,6 @@
  <img src= "https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/abdul1028/streak-badge.svg"  />
 </a>
 </div>
-  
   <div align="center">
     <a href="https://leetcode.com/u/Abdul1028/” target="_blank">
       <img src=https://img.shields.io/badge/leetcode-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
