@@ -7,7 +7,6 @@
 <a align="center">
   <img src="https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/Abdul1028/recent-activity-badge.svg" alt="Activity Status" />
 </a>
-
 <a>
  <img src= "https://git-stats-backend-907cb3d43454.herokuapp.com/api/users/abdul1028/streak-badge.svg"  />
 </a>
