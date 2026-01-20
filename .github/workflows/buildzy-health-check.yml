@@ -1,4 +1,16 @@
-steps:
+name: Spring Infra Daily Health Check
+
+on:
+  schedule:
+    - cron: '30 0 * * *'    # 06:00 IST
+    - cron: '30 16 * * *'   # 22:00 IST
+  workflow_dispatch:
+
+jobs:
+  ping-and-notify:
+    runs-on: ubuntu-latest
+
+    steps:
 
       # === API HEALTH CHECK ===
       - name: Check API Health
@@ -59,10 +71,10 @@ steps:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          curl -X POST -H 'Content-type: application/json' --data "{
-            \"text\": \"📡 *Infra Health Report*\n
-*API:* ${{ steps.api_health.outputs.api_signal }}  ${{ steps.api_health.outputs.api_status }} (HTTP ${{ steps.api_health.outputs.api_code }})\n
-*Logs:* ${{ steps.log_health.outputs.log_signal }}  ${{ steps.log_health.outputs.log_status }} (HTTP ${{ steps.log_health.outputs.log_code }})\n
-*S3 Proxy (supply):* ${{ steps.proxy_health.outputs.proxy_signal }}  ${{ steps.proxy_health.outputs.proxy_status }} (HTTP ${{ steps.proxy_health.outputs.proxy_code }})\n
-⏰ Time: $(date -u +'%Y-%m-%d %H:%M UTC')\"
-          }" $SLACK_WEBHOOK_URL
+          payload=$(cat <<EOF
+          {
+            "text": "📡 *Infra Health Report*\n*API:* ${{ steps.api_health.outputs.api_signal }}  ${{ steps.api_health.outputs.api_status }} (HTTP ${{ steps.api_health.outputs.api_code }})\n*Logs:* ${{ steps.log_health.outputs.log_signal }}  ${{ steps.log_health.outputs.log_status }} (HTTP ${{ steps.log_health.outputs.log_code }})\n*S3 Proxy (supply):* ${{ steps.proxy_health.outputs.proxy_signal }}  ${{ steps.proxy_health.outputs.proxy_status }} (HTTP ${{ steps.proxy_health.outputs.proxy_code }})\n⏰ Time: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          }
+          EOF
+          )
+          curl -X POST -H "Content-type: application/json" --data "$payload" "$SLACK_WEBHOOK_URL"
